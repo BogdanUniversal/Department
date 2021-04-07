@@ -1,2 +1,2 @@
 # Deposit
-Department database made with MySQL.
+Deposit database made with MySQL.
